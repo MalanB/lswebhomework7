@@ -1,12 +1,12 @@
-# Homework #7
+ # Homework #7
 
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array - Array is a collection of variables of same datatype.
+	* Object - way of storing named values inside a single entity(class / something)
+	* Method - A piece of code to work on Objects
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
